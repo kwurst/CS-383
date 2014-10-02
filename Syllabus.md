@@ -1,6 +1,6 @@
-### *CS 383 01 - Spring 2014*
+### *CS 383 01 - Spring 2015*
 
-# Cloud, Parallel, Distributed and Computing
+# CS-383 Cloud, Parallel, and Distributed Computing
 
 ## Credit and Contact Hours
 3 credits<br>
@@ -25,46 +25,44 @@ In addition to the textbook, to successfully complete this course you will need:
 
 1.	**Laptop Computer:** You will need a laptop computer that you can bring to class sessions and can use at home. The brand and operating system (Windows, Mac OS X, Linux) is unimportant – the software we will be using runs on all major operating systems and can be downloaded for free.  It is expected that you will download and install required software as needed over the course of the semester.
 2.	**Internet Access:** You will need Internet access for access to:
-    1.	**Github** – We will use Github to host our code.
-    2.	**OpenMRS.org** – We will be working on the OpenMRS project, and you will need access to their site and their community tools.
-    3.	**WSU Gmail** – You must check your WSU Gmail account on a regular basis. We will be using a class Listserv to communicate, and you will be subscribing to OpenMRS mailing lists.
-    4.	**Wordpress or other blogging platform** – You will be keeping a blog about your learning in this course.
-    5.	**Tutorials and articles** – I will suggest, and you will research on your own, tutorials and articles for you to learn new technologies and techniques we need.
+    1.	**GitLab** – We will use GitLab to host our code.
+    1.	**WSU Gmail** – You must check your WSU Gmail account on a regular basis. We will be using a class Listserv to communicate, and you will be subscribing to OpenMRS mailing lists.
+    1.	**Tutorials and articles** – I will suggest, and you will research on your own, tutorials and articles for you to learn new technologies and techniques we need.
 
 ## Where Does This Course Lead?
 * CS-483 Big Data Analytics Capstone
 * Your professional career
 
 ## Course Workload Expectations
-***This is a three-credit project-based course. You should expect to spend, on average, 9 hours per week on this class.***
+***This is a three-credit course. You should expect to spend, on average, 9 hours per week on this class.***
  
-You will spend 3 hours per week in class, presenting your team’s work to the class, meeting face-to-face with your team, and possibly learning some new tool or method. In addition, you should expect to spend, on average, at least 6 hours per week during the semester outside of class, writing code and documentation, learning new tools and techniques, and communicating with the team. (See *Definition of the Credit Hour*)
+You will spend 3 hours per week in class, ... . In addition, you should expect to spend, on average, at least 6 hours per week during the semester outside of class, ... . (See *Definition of the Credit Hour*)
 
-***The bulk of your work in this course will take place outside of the class time. It is not possible to contribute the amount of work your team and the class need to be successful entirely within the 3 hours of class time. If you attempt to do so, you will not only receive a poor grade in the course, but will also be letting down your classmates, and giving a poor impression of your reliability and quality of work to your classmates and to members of the professional community.***
+## Definition of the Credit HourFederal regulation defines a credit hour as an amount of work represented in intended learning outcomes and verified by evidence of student achievement that is an institutional established equivalence that reasonably approximates not less than –
+1.	One hour of classroom or direct faculty instruction and a minimum of two hours of out of class student work each week for approximately fifteen weeks for one semester or trimester hour of credit, or ten to twelve weeks for one quarter hour of credit, or the equivalent amount of work over a different amount of time; or 2.	At least an equivalent amount of work as required in paragraph (1) of this definition for other academic activities as established by the institution including laboratory work, internships, practica, studio work, and other academic work leading to the award of credit hours.## PrerequisitesThis course has a prerequisite of CS 373 – Operating Systems
 
-***This is a chance to build your professional reputation – make sure you make a good impression.***
+CS 373 required CS 254 – Computer Organization and Architecture
 
+CS 373 required CS 282 – Unix Systems Programming
+
+CS 282 required CS 242 – Data Structures
+
+CS 242 and CS 282 required MA 220/290 – Discrete Mathematics I/II
+
+CS 373 required EN 252 – Technical Writing. You should be able to write professionally. You should be able to write professional-quality reports, memos and documentation.***If you are missing any of this background, you should not take this course.***
 
 ## Attendance
-You are expected to attend every class. You will be presenting a group progress report in class each week, meeting with your group to plan the group’s work for the upcoming week, and possibly learning a new tool or method. If there is a reason you must miss class, you should let your group know well in advance. You should still contribute to your group’s presentation, even if you will not be part of giving it. You should also let the instructor know if you must miss a class.
+You are expected to attend every class. ...
 
 ## Course Format
-This is a course about learning to work within a large, distributed software project. We will meet weekly. A small portion of our weekly meeting time may be used for me to present some new material on the software development process, tool, group process, or object-oriented design. The bulk of our weekly meeting time will be used for groups to present designs and code to the class in a peer-review process, and for groups to have a regularly-scheduled meeting time in which to work out process issues and to set goals and tasks for the upcoming week.
+...
 
 ## Course Objectives
-This course is intended to mimic, as closely as possible, the professional software development team environment. 
-
-You will perform development work in a significant software system, employing knowledge gained from courses taken throughout the Computer Science program. You will work in groups to manage a project; selecting and following appropriate project management techniques. You will work on the requirements, design, implementation, and quality assurance plan, and analyze the project for professional, social, and ethical issues. 
-
-You will learn new technology and techniques on your own as needed for the project. In doing so, you will gain an appreciation for the importance of continuing professional development, and confidence in learning new technology and techniques on your own.
-
-You will reflect on your learning and make frequent written and oral status reports on your individual and team progress. 
-
-You will contribute the results of your work to the professional community, and develop a professional presence and reputation within the community.
+The course introduces basics of Cloud Computing and fundamental computing technologies used for Big Data platforms. It covers basic data storage, management and processing approaches used on Clouds. It discusses Cloud Computing components, Cloud Computing architecture and their implementations as well as management and security methods used for Big Data. It introduces computing technologies used on Clouds such as Parallel Computing, Distributed Computing and Cluster Computing. Students will be exposed to a variety of computing techniques for Big Data platforms and analyze their efficiency for different applications. The list of discussed approaches include but not limited to Parallel DBMS and Map Reduce technologies. 
 
 ## Course-Level Student Learning Outcomes
-After successful completion of this course, students will be able to:
-...
+Upon successful completion of this course, students will be able to:
+* Understand Cloud Computing components, Cloud Computing architectures and their implementations;* Apply Cloud Computing principles, management and security methods;  * Apply methods of Parallel Computing used for Big Data processing;* Apply methods of Cluster Computing used for Big Data processing;* Apply Distributed computing methods used for Big Data processing.
 
 ## LASC Student Learning Outcomes
 This course does not fulfill any LASC Content Area requirements, but contributes to the following Overarching Outcomes of LASC:
@@ -82,23 +80,22 @@ This course addresses the following outcomes of the Computer Science Major (see 
 
 Upon successful completion of the Major in Computer Science, students will be able to:
 	
-1.	Analyze a problem, develop/design multiple solutions and evaluate and document the solutions based on the requirements. (Mastery)
-2.	Communicate effectively both in written and oral form. (Mastery)
-3.	Identify professional and ethical considerations, and apply ethical reasoning to technological solutions to problems. (Mastery)
-4.	Demonstrate an understanding of and appreciation for the importance of negotiation, effective work habits, leadership, and good communication with teammates and stakeholders. (Mastery)
-5.	Learn new models, techniques, and technologies as they emerge and appreciate the necessity of such continuing professional development. (Mastery)
+1.	Analyze a problem, develop/design multiple solutions and evaluate and document the solutions based on the requirements. (Emphasis)
+2.	Communicate effectively both in written and oral form. (Emphasis)
+5.	Learn new models, techniques, and technologies as they emerge and appreciate the necessity of such continuing professional development. (Emphasis)
 
 ## Course Topics
+...
 
 ## Grading Policies
 Your grade in the course will be determined as follows:
  
 Assignment Category | Percentage
 ---|:-:
-Weekly Group Status, Design Review and Code Review Presentations | 25%
-Blog Entries | 25%
-Work Products (Design Documentation, Code, etc) | 25%
-Final Group Presentation  | 25%
+First type| 25%
+Second type | 25%
+Third type | 25%
+Fourth type  | 25%
  
 ## Grading Scale
 Percentage | Letter Grade 
@@ -118,19 +115,13 @@ less than 60% | E
  
 Each range includes the lower value, but not the upper value. For example, the range of 80 to 83 includes all grades up to, but not including 83. The highest range does, however, include 100%.
 
-## Weekly Presentations
-Your group will give weekly presentations on your progress. The expectations for the weekly progress reports will change as the course progresses. The presentations may include design or code reviews, reports on project organization and structure, or simple status reports. All members of your group are expected to contribute equally to the presentations.
+## First Type
 
-## Blog
-You will be required to keep a blog about your part of the project and your experiences in this class. Your blog must be publicly accessible[^1], and will be aggregated on the [CS@Worcester Blog](http://cs.worcester.edu/blog/) and the [Teaching Open Source Planet](http://planet.teachingopensource.org/). 
+## Second Type
 
-[^1]: If there is a reason why your name cannot be publicly associated with this course, you may blog under a pseudonym. You must see me to discuss the details, but your blog must still be publicly accessible and aggregated, and you must inform me of your pseudonym.
+## Third Type
 
-## Work Products
-As you participate in the project, you will be producing various work products – reports, reviews, design documents, code, documentation, etc.
-
-## Final Presentation
-Final presentations will be given during our scheduled final exam period – Wednesday, 14 May 2014 from 12:30pm-3:30pm.
+## Fourth Type
 
 ## Deliverables
 All work will be submitted electronically through a variety of tools. The due date and time will be given on the assignment. The submission date and time will be determined by the submission timestamp of the tool used.
@@ -150,7 +141,7 @@ By all means, try to work out the material on your own, but ask for help when yo
 I am here to help you understand the material and be successful in the course.
 
 ## Contacting Me
-You may contact me by email (Karl.Wurst@worcester.edu), telephone (+1-508-929-8728), or see me in my office. My office hours are listed on the schedule on my web page (http://sharepoint.worcester.edu/faculty/kwurst) or you may make an appointment for a mutually convenient time.
+You may contact me by email (Karl.Wurst@worcester.edu), telephone (+1-508-929-8728), or see me in my office. My office hours are listed on the schedule on my web page ([http://sharepoint.worcester.edu/faculty/kwurst]()) or you may make an appointment for a mutually convenient time.
 
 **If you email me, please include “[CS 401]” in the subject line, so that my email program can correctly file your email and ensure that your message does not get buried in my general mailbox.**
 
@@ -189,7 +180,7 @@ Each student is responsible for the contents of the readings, discussions, class
 **If you have a serious problem that prevents you from finishing an assignment on time, contact me and we'll come up with a solution.**
 
 ## Acknowledgements
-This course is based heavily on materials from [Dr. Heidi Ellis](http://mars.wnec.edu/~hellis) of Western New England University, and materials from the [Teaching Open Source](http://teachingopensource.org/index.php/Main_Page)/[POSSE](http://teachingopensource.org/index.php/POSSE) community. 
+...
 
 ## Schedule
 Our first class will be on Monday, 27 January 2014
