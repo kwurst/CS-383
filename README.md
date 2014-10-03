@@ -7,4 +7,8 @@
 Will be taught for the first time in Spring 2015.
 
 Upon successful completion of this course, students will be able to:
-* Understand Cloud Computing components, Cloud Computing architectures and their implementations;* Apply Cloud Computing principles, management and security methods;  * Apply methods of Parallel Computing used for Big Data processing;* Apply methods of Cluster Computing used for Big Data processing;* Apply Distributed computing methods used for Big Data processing.
+* Understand Cloud Computing components, Cloud Computing architectures and their implementations
+* Apply Cloud Computing principles, management and security methods
+* Apply methods of Parallel Computing used for Big Data processing
+* Apply methods of Cluster Computing used for Big Data processing
+* Apply Distributed computing methods used for Big Data processing

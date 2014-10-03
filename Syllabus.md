@@ -38,8 +38,14 @@ In addition to the textbook, to successfully complete this course you will need:
  
 You will spend 3 hours per week in class, ... . In addition, you should expect to spend, on average, at least 6 hours per week during the semester outside of class, ... . (See *Definition of the Credit Hour*)
 
-## Definition of the Credit HourFederal regulation defines a credit hour as an amount of work represented in intended learning outcomes and verified by evidence of student achievement that is an institutional established equivalence that reasonably approximates not less than –
-1.	One hour of classroom or direct faculty instruction and a minimum of two hours of out of class student work each week for approximately fifteen weeks for one semester or trimester hour of credit, or ten to twelve weeks for one quarter hour of credit, or the equivalent amount of work over a different amount of time; or 2.	At least an equivalent amount of work as required in paragraph (1) of this definition for other academic activities as established by the institution including laboratory work, internships, practica, studio work, and other academic work leading to the award of credit hours.## PrerequisitesThis course has a prerequisite of CS 373 – Operating Systems
+## Definition of the Credit Hour
+Federal regulation defines a credit hour as an amount of work represented in intended learning outcomes and verified by evidence of student achievement that is an institutional established equivalence that reasonably approximates not less than –
+
+1.	One hour of classroom or direct faculty instruction and a minimum of two hours of out of class student work each week for approximately fifteen weeks for one semester or trimester hour of credit, or ten to twelve weeks for one quarter hour of credit, or the equivalent amount of work over a different amount of time; or 
+2.	At least an equivalent amount of work as required in paragraph (1) of this definition for other academic activities as established by the institution including laboratory work, internships, practica, studio work, and other academic work leading to the award of credit hours.
+
+## Prerequisites
+This course has a prerequisite of CS 373 – Operating Systems
 
 CS 373 required CS 254 – Computer Organization and Architecture
 
@@ -49,7 +55,9 @@ CS 282 required CS 242 – Data Structures
 
 CS 242 and CS 282 required MA 220/290 – Discrete Mathematics I/II
 
-CS 373 required EN 252 – Technical Writing. You should be able to write professionally. You should be able to write professional-quality reports, memos and documentation.***If you are missing any of this background, you should not take this course.***
+CS 373 required EN 252 – Technical Writing. You should be able to write professionally. You should be able to write professional-quality reports, memos and documentation.
+
+***If you are missing any of this background, you should not take this course.***
 
 ## Attendance
 You are expected to attend every class. ...
@@ -62,7 +70,11 @@ The course introduces basics of Cloud Computing and fundamental computing techno
 
 ## Course-Level Student Learning Outcomes
 Upon successful completion of this course, students will be able to:
-* Understand Cloud Computing components, Cloud Computing architectures and their implementations;* Apply Cloud Computing principles, management and security methods;  * Apply methods of Parallel Computing used for Big Data processing;* Apply methods of Cluster Computing used for Big Data processing;* Apply Distributed computing methods used for Big Data processing.
+* Understand Cloud Computing components, Cloud Computing architectures and their implementations
+* Apply Cloud Computing principles, management and security methods
+* Apply methods of Parallel Computing used for Big Data processing
+* Apply methods of Cluster Computing used for Big Data processing
+* Apply Distributed computing methods used for Big Data processing.
 
 ## LASC Student Learning Outcomes
 This course does not fulfill any LASC Content Area requirements, but contributes to the following Overarching Outcomes of LASC:
