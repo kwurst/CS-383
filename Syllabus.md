@@ -1,4 +1,4 @@
-### *CS 383 01 - Spring 2015*
+### *CS 383 01 --- Spring 2015*
 
 # CS-383 Cloud, Parallel, and Distributed Computing
 
