@@ -1,4 +1,4 @@
-### *CS 383 01 --- Spring 2015*
+### *CS 383 01, 02 --- Spring 2015*
 
 # CS-383 Cloud, Parallel, and Distributed Computing
 
@@ -14,8 +14,11 @@ Dr. Karl R. Wurst<br>
 See [http://cs.worcester.edu/kwurst/]() for contact information and schedule.
 
 ## Meeting Time and Location
-TR 8:30-9:45am<br>
-ST 107
+Section | Time | Location
+:-:|:-:|:-:
+01 | TR 8:30-9:45am | ST 107
+02 | TR 1:00-2:15pm |ST 107
+
 
 ## Textbook
 *TBD*
@@ -203,7 +206,13 @@ Our last class will be on Tuesday, 5 May 2015
 
 We will not have class on Thursday, 5 March 2015 (and possibly Tuesday, 3 March 2015) because I will be away at a conference; Tuesday, 17 March 2015 and Thursday, 19 March 2015 due to Spring Break.
 
-Our scheduled final exam period is Thursday, 7 May 2015 from 8:30am-11:30am.
+Our scheduled final exam period is:
+
+Section | Day | Time
+:-:|:-:|:-:
+01 | Thursday, 7 May 2015 | 8:30am-11:30am
+02 | Tuesday, 12 May 2015 | 12:30pm-3:30pm
+
 
 ##Copyright and License
 ####&copy; 2014 Karl R. Wurst, Worcester State University
