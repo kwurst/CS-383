@@ -39,7 +39,7 @@ In addition to the textbook, to successfully complete this course you will need:
 ## Course Workload Expectations
 ***This is a three-credit course. You should expect to spend, on average, 9 hours per week on this class.***
  
-You will spend 3 hours per week in class, ... . In addition, you should expect to spend, on average, at least 6 hours per week during the semester outside of class, ... . (See *Definition of the Credit Hour*)
+You will spend 3 hours per week in class, learning new distributed processing models, languages, and techniques. In addition, you should expect to spend, on average, at least 6 hours per week during the semester outside of class, reading, finding resourses, and coding. (See *Definition of the Credit Hour*)
 
 ## Definition of the Credit Hour
 >Federal regulation defines a credit hour as an amount of work represented in intended learning outcomes and verified by evidence of student achievement that is an institutional established equivalence that reasonably approximates not less than –
