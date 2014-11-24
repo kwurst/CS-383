@@ -21,7 +21,7 @@ Section | Time | Location
 
 
 ## Textbook
-*TBD*
+No required textbook. Materials will be provided by the instructor, and/or linked-to online. 
 
 ## Required Materials
 In addition to the textbook, to successfully complete this course you will need:
