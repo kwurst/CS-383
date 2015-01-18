@@ -204,7 +204,7 @@ Our first class will be on Tuesday, 20 January 2015
 
 Our last class will be on Tuesday, 5 May 2015
 
-We will not have class on Thursday, 5 March 2015 (and possibly Tuesday, 3 March 2015) because I will be away at a conference; Tuesday, 17 March 2015 and Thursday, 19 March 2015 due to Spring Break.
+We will not have class on Thursday, 5 March 2015 because I will be away at a conference; Tuesday, 17 March 2015 and Thursday, 19 March 2015 due to Spring Break.
 
 Our scheduled final exam period is:
 
