@@ -236,7 +236,7 @@ Each student is responsible for the contents of the readings, discussions, class
 --- | :-- | :-- 
 Week 1 | 16 January - **No Class<br>Martin Luther King Day** | 18 January<br>Hadoop Intro and Use Cases
 Week 2 | 23 January<br>Using Amazon Web Services | 25 January<br>Hadoop Distributed File System
-Week 3 | 30 January<br>MapReduce Programming | 2 February<br>MapReduce Programming
+Week 3 | 30 January - **No Class<br>Aisiku STEM Center Opening** | 2 February<br>MapReduce Programming
 Week 4 | 6 February<br>MapReduce Programming | 8 February<br>YARN
 Week 5 | 13 February<br>YARN | 15 February<br>Pig Programming
 Week 6 | 20 February - **No Class<br>President's Day** | 22 February<br>Pig Programming
