@@ -1,3 +1,4 @@
+*Version 2017-Spring-1.0, Revised 7 January 2017*
 ### *CS-383 01 --- Spring 2017*
 
 # CS-383 Cloud, Parallel, and Distributed Computing
@@ -253,6 +254,6 @@ Week 15/<br>Final Exams | 1 May - **Last Day of Class**<br>Working on Final Proj
 Final Exams | 8 May - **12:30pm-3:30pm<br>Final Project Presentations**
 
 ##Copyright and License
-####&copy; 2016 Karl R. Wurst, Worcester State University
+####&copy; 2017 Karl R. Wurst, Worcester State University
 
-<img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width=100px/>This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/]() or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+<img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width=100px/>This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
